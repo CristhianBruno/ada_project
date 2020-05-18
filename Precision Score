@@ -1,0 +1,12 @@
++---------------------------+----------------------+
+|           Model           |  Macro Precision (%) |
++---------------------------+----------------------+
+|    K-Nearest Neighbors    |       87.0923        |
+|        Naive Bayes        |       78.3560        |
+|    Logistic Regression    |       82.9423        |
+|       Decision Tree       |       82.6654        |
+|   Support Vector Machine  |       83.4656        |
+|       Random Forest       |       88.0796        |
+| Extreme Gradient Boosting |       87.5855        |
+|     Bagging Classifier    |       81.6779        |
++---------------------------+----------------------+

@@ -1,0 +1,20 @@
++------------------+--------------+-------------------+----------------------+
+| K-best Selection | Correlation  | Features Selected | Theoretical Features |
++------------------+--------------+-------------------+----------------------+
+|   TPA      BDB   | TPA      ESB |        AYE        |         REP          |
+|   B2V      PLA   | BDB      PLA |        BIG        |         RED          |
+|   LTR      SIZ   | TMS      B2V |        BAR        |         TOP          |
+|   PAB      CAV   | SUR      CAV |        IND        |         TIE          |
+|   AWA      ESB   | SOL      SIZ |        DWF        |         IND          |
+|   E10      CCA   | PAB      PAR |        PST        |         NAD          |
+|   INC      PPP   | LTR      IAS |        CPB        |         PAS          |
+|   AYE      SOL   | DIS      RES |        REC        |         SAS          |
+|   CDA      PST   | CPB      EDU |        SUR        |         AYE          |
+|   MLB      EDU   | DWF      AWA |        CDA        |         EDU          |
+|   REC      BIG   | CDA      AVC |        INC        |         SUR          |
+|                  | PST      REC |        MLB        |                      |
+|                  | E10      AYE |                   |                      |
+|                  | CCA      IND |                   |                      |
+|                  | PPP      BAR |                   |                      |
+|                  | INC          |                   |                      |
++------------------+--------------+-------------------+----------------------+
