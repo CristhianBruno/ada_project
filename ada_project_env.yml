@@ -1,4 +1,4 @@
-name: finalProject
+name: ada_project_env
 channels:
   - anaconda
   - conda-forge
